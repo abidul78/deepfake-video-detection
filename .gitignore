@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/raw/
+dataset/faces/
+
+# Trained models
+models/*.keras
+models/*.h5
+
+# Uploaded videos
+static/uploads/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
