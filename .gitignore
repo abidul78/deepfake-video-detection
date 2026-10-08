@@ -25,3 +25,8 @@ static/uploads/
 # OS
 Thumbs.db
 .DS_Store
+
+# Local testing files
+test_video.mp4
+test_frames/
+test_faces/
